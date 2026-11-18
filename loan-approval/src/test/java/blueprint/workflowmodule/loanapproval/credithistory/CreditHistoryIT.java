@@ -1,4 +1,4 @@
-package blueprint.workflowmodule.credithistory;
+package blueprint.workflowmodule.loanapproval.credithistory;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -8,7 +8,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import blueprint.workflowmodule.WorkflowModuleTest;
-import blueprint.workflowmodule.credithistory.model.Aggregate;
+import blueprint.workflowmodule.loanapproval.credithistory.model.Aggregate;
 import io.quarkus.test.junit.QuarkusTest;
 import jakarta.inject.Inject;
 

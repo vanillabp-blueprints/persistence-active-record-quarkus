@@ -1,8 +1,8 @@
-package blueprint.workflowmodule.credithistory;
+package blueprint.workflowmodule.loanapproval.credithistory;
 
 import java.util.UUID;
 
-import blueprint.workflowmodule.credithistory.api.CreditHistoryApi;
+import blueprint.workflowmodule.loanapproval.credithistory.api.CreditHistoryApi;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import lombok.extern.slf4j.Slf4j;

@@ -1,8 +1,8 @@
-package blueprint.workflowmodule.credithistory;
+package blueprint.workflowmodule.loanapproval.credithistory;
 
 import java.util.Optional;
 
-import blueprint.workflowmodule.credithistory.model.Aggregate;
+import blueprint.workflowmodule.loanapproval.credithistory.model.Aggregate;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;

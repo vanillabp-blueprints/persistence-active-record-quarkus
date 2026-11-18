@@ -1,4 +1,4 @@
-package blueprint.workflowmodule.credithistory.model;
+package blueprint.workflowmodule.loanapproval.credithistory.model;
 
 import java.util.Optional;
 
@@ -34,7 +34,7 @@ import lombok.NoArgsConstructor;
  *
  * <pre>
  * Using VanillaBP's MongoDB Panache active record persistence for workflow aggregate
- * 'blueprint.workflowmodule.credithistory.model.Aggregate'
+ * 'blueprint.workflowmodule.loanapproval.credithistory.model.Aggregate'
  * Using VanillaBP's Hibernate ORM Panache active record persistence for workflow aggregate
  * 'blueprint.workflowmodule.loanapproval.model.Aggregate'
  * </pre>

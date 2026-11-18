@@ -1,6 +1,6 @@
-package blueprint.workflowmodule.credithistory;
+package blueprint.workflowmodule.loanapproval.credithistory;
 
-import blueprint.workflowmodule.credithistory.model.Aggregate;
+import blueprint.workflowmodule.loanapproval.credithistory.model.Aggregate;
 import io.vanillabp.spi.process.ProcessService;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
